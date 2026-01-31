@@ -1,0 +1,7 @@
+{
+  "name": "Radio HAMANIEH FLASH",
+  "description": "Une application radio moderne pour écouter HAMANIEH FLASH en direct, suivre les émissions et rester connecté sur les réseaux sociaux.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
